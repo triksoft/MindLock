@@ -34,17 +34,6 @@ XML for UI
 
 Firebase / Local Storage (if used)
 
-📦 Installation
-
-Clone the repository
-
-git clone https://github.com/your-username/MindLock.git
-
-
-Open in Android Studio
-
-Sync Gradle files
-
 Run the project on an emulator or physical device
 
 🧠 How It Works
